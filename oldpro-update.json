@@ -1,0 +1,12 @@
+{
+  "latestVersion": "0.19.9",
+  "latestVersionCode": "202",
+  "url": "https://pgt.mods24x7.xyz/",
+  "releaseNotes": [
+      "This update includes: ",
+    "- Added Super Smooth Graphics(Basic Settings)",
+    "- Added Ultra Performance(Zero Lag Profile)",
+    "- Added Force 90 FPS, Force Potato, Force Super Smooth, Fixed Large Display Resolution(Wide View)(Experimental Settings)",
+    "*Note: Disable Experimental Settings, if your setting is not applying. & Clear PGT+ app data from settings, if app is crashing on applying*"
+  ]
+}
